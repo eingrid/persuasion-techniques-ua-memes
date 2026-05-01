@@ -1,0 +1,39 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments / model weights
+.venv
+qwen3-8b-finetuned-fp16/
+lora_model/
+unsloth_compiled_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Scrape artefacts / secrets
+*.session
+scrape/downloaded_images/
+scrape/images_data.json
+
+# Calibration secrets / caches / generated tables
+calibration/.env
+calibration/cache*
+calibration/consistency_calibration/
+calibration/results/
+
+# Explainability inference / processing caches
+explainability/data_*/
+
+# Misc artefacts
+artifacts/
+
+# Editor / local-only
+.vscode/
+DIPLOMA_DATA_SYMLINK
+
+report/
