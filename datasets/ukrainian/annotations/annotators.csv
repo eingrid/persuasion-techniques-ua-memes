@@ -1,0 +1,201 @@
+image,labels_annotator1,labels_annotator2
+csv_10RGn0cWAS8GFV0dlIwylPDcbmJNfLAig,['Smears'],"['Appeal to (Strong) Emotions', 'Flag-waving', 'Smears', 'Transfer']"
+csv_10nuP18xGKwhwzie8LQg1jJvQ7sEyBUNk,['Whataboutism'],"['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Transfer']"
+csv_11FXDzESQrZpC5yqpUrKbsipXldf1owRH,"['Causal Oversimplification', 'Smears']","['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Flag-waving']"
+csv_12eKY_11DKhS3OJkRBe3Ik-w6IF0XoKHP,"['Doubt', 'Smears']","['Appeal to (Strong) Emotions', 'Doubt', 'Smears']"
+csv_12vuewEZ3Dv50-FjDlCv4RFJpRr-EhPNZ,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Smears']","['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Flag-waving', 'Name calling/Labeling', 'Smears']"
+csv_15Xl8UwDt1ZSFTNyzlZN6fMHpXEpYHQCk,"['Causal Oversimplification', 'Exaggeration/Minimisation']","['Appeal to (Strong) Emotions', 'Causal Oversimplification', 'Loaded Language']"
+csv_15Z8Rt1Ota8wub2hqnuiUIItFFPqsrPH5,"['Exaggeration/Minimisation', 'Smears']","['Name calling/Labeling', 'Smears', 'Transfer']"
+csv_16iNP31Z76-aUG4_3v2dVQXT6-vl5WvrT,['No Propaganda'],"['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Flag-waving', 'Loaded Language', 'Name calling/Labeling']"
+csv_17b2FLR8lRzXZV1EltJ_trlu_4oY3K9Ix,"['Appeal to fear/prejudice', 'Causal Oversimplification', 'Loaded Language', 'Name calling/Labeling']","['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Name calling/Labeling', 'Smears']"
+csv_17nYn-o-TfP0HMVFYfiNE-VJxOWFH-QGE,"['Appeal to (Strong) Emotions', 'Loaded Language', 'Transfer']","['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Flag-waving', 'Loaded Language']"
+csv_17voh_B-0ayn2K7k-KbPZrGaFQG16qcyD,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Smears', 'Transfer']","['Exaggeration/Minimisation', 'Flag-waving', 'Smears']"
+csv_187mz_-6PYDq6npL3VY9WfQTUzQ9TvlNW,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Slogans']","['Flag-waving', 'Glittering generalities (Virtue)', 'Smears']"
+csv_18prs6s39jUFeFR3GkzP3oL3Z1TAloAhZ,"['Repetition', 'Smears', 'Transfer']",['Loaded Language']
+csv_18qlkKB9RLb7J0U35PGDKl1kXQC6gOXr0,['No Propaganda'],"['Appeal to (Strong) Emotions', 'Flag-waving']"
+csv_19K52HV_zp2kq13WfLeMBNkm3428uyUwY,['Appeal to (Strong) Emotions'],"['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Loaded Language']"
+csv_1A-cihVsP7tu8VHPba7zRWkUujJ00W-qc,"[""Misrepresentation of Someone's Position (Straw Man)"", 'Smears', 'Transfer']","['Flag-waving', 'Name calling/Labeling']"
+csv_1AKtnUcdUIeNVze0-Rs_oe0rY7LEEjclO,['Black-and-white Fallacy/Dictatorship'],"['Flag-waving', 'Loaded Language']"
+csv_1Al9-s0JO2cbXxCDkeWdpsZXGodrOxTIZ,"['Flag-waving', 'Reductio ad hitlerum', 'Slogans']","['Flag-waving', 'Name calling/Labeling', 'Reductio ad hitlerum', 'Slogans', 'Transfer']"
+csv_1Bnkw2vdtnEpGhXKOvLI4FbN0rmogd6_L,"['Appeal to (Strong) Emotions', 'Causal Oversimplification']","['Black-and-white Fallacy/Dictatorship', 'Smears']"
+csv_1BpTThdNzKWJL4HV99MPnQFprzaAEYYPI,"['Glittering generalities (Virtue)', 'Smears', 'Transfer']",['No Propaganda']
+csv_1BxH9gv_9C3sGTrtvSJOD5olLRrRS5j55,"['Exaggeration/Minimisation', ""Misrepresentation of Someone's Position (Straw Man)"", 'Reductio ad hitlerum']","['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Reductio ad hitlerum', 'Smears']"
+csv_1CEAEC2XjcetNmkCJVYpb619Jw2hrGb0z,"['Exaggeration/Minimisation', 'Obfuscation, Intentional vagueness, Confusion', 'Smears']",['Appeal to (Strong) Emotions']
+csv_1DbVrsaLVp810zGm7Zsb6UOz78wo99ws6,"['Appeal to (Strong) Emotions', 'Transfer']","['Appeal to (Strong) Emotions', 'Flag-waving']"
+csv_1DtfA0h_xVyHPGp2LrNFyXpLdDiA8uaHs,"[""Misrepresentation of Someone's Position (Straw Man)"", 'Smears']","['Flag-waving', 'Smears']"
+csv_1EIwGJLc46qa_HtqG0-D8lfiIPOEsY5yj,"['Causal Oversimplification', 'Exaggeration/Minimisation']","['Exaggeration/Minimisation', 'Flag-waving', 'Smears']"
+csv_1EL8Cx39fzHx9mKk8Z8W20EX-LxZ_bbo6,"['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Causal Oversimplification']","['Flag-waving', 'Smears']"
+csv_1EY1F7cXlt3ZqTFnhcHp5XX0W4gSO9CIg,"['Exaggeration/Minimisation', 'Obfuscation, Intentional vagueness, Confusion']",['Whataboutism']
+csv_1Eh0yJjnRzEgsXztrEM1hNWObMt6Y1He8,['No Propaganda'],"['Appeal to authority', 'Transfer']"
+csv_1GR49wqoB36kABB3vL0ieq1o1pSSAlbjg,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Glittering generalities (Virtue)']","['Flag-waving', 'Smears']"
+csv_1GzS_S7cgzxFq2HL2CnTRjMf_g6PTQdel,['Bandwagon'],['Appeal to (Strong) Emotions']
+csv_1HRwYq0KqqgXguVWAmIph9E3wKK_Pw8Zr,"['Exaggeration/Minimisation', 'Smears']","['Exaggeration/Minimisation', 'Smears']"
+csv_1HkWMf3hpyboOpJufpFba9-xsOTRQ4nQy,"['Exaggeration/Minimisation', ""Misrepresentation of Someone's Position (Straw Man)"", 'Smears']",['Smears']
+csv_1HuQzlULlLW5pzaxyNSo4AFZZVzZOBCGM,['Appeal to fear/prejudice'],"['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Flag-waving']"
+csv_1I59sHCS5OY4zUxs-g4nS4ttxaIj3_ihL,"['Exaggeration/Minimisation', 'Loaded Language', 'Obfuscation, Intentional vagueness, Confusion']","['Appeal to (Strong) Emotions', 'Smears']"
+csv_1Ioe_jk2gwxssv0PcOaHJm1C_VxeZRgLb,"['Repetition', 'Smears']","['Appeal to fear/prejudice', 'Doubt', 'Exaggeration/Minimisation', 'Smears']"
+csv_1IuI1-MTnUctPpWVuM9GUU4XB3Ht7p5r6,"['Appeal to (Strong) Emotions', 'Glittering generalities (Virtue)']","['Appeal to (Strong) Emotions', 'Loaded Language']"
+csv_1J5RRuMM79ql_f7fNFT7dipg38APC93Z8,"['Appeal to (Strong) Emotions', 'Obfuscation, Intentional vagueness, Confusion', 'Transfer']","['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Flag-waving']"
+csv_1JdqvIa3Dn9Xan87wvOAOgpNMsbmvzDxh,"['Flag-waving', 'Glittering generalities (Virtue)']",['Flag-waving']
+csv_1KTez4UC5TqRrSw4-RsEbEgeMUymlZTNR,"['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation']","['Exaggeration/Minimisation', 'Flag-waving']"
+csv_1KXdSpbH06J7508iSvl9xeRvbZ3vXhF3E,"['Appeal to (Strong) Emotions', 'Flag-waving']",['No Propaganda']
+csv_1LD3SuCeT94e6Im6xOwK6XlUPctIeOd7H,"['Causal Oversimplification', 'Smears']","['Causal Oversimplification', 'Smears']"
+csv_1NDx7AeW1Y_ELMUi2sJLLEHxu2M79WOLh,"['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation']",['Flag-waving']
+csv_1OhLqfzHgovovA_2eZwke71-Os3u7kLhe,['Appeal to (Strong) Emotions'],['Appeal to (Strong) Emotions']
+csv_1P2ntPlLGHd9lhDg52WH9r6k0BLQ2Hqgv,"['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Obfuscation, Intentional vagueness, Confusion']","['Flag-waving', 'Smears']"
+csv_1Py92xnYDI5ilr30qKDF1GIIx9ftRV5h-,['Exaggeration/Minimisation'],"['Appeal to (Strong) Emotions', 'Flag-waving', 'Smears', 'Transfer']"
+csv_1QOtqqVGS9dXu17pwVMP2gC-KW8yY5BC-,"['Causal Oversimplification', ""Misrepresentation of Someone's Position (Straw Man)"", 'Appeal to authority']","['Smears', 'Appeal to authority']"
+csv_1RDsny5mL3po66GY0R1OL3tHpUUD2XcqV,"['Exaggeration/Minimisation', 'Smears', 'Transfer']","['Loaded Language', 'Name calling/Labeling', 'Smears']"
+csv_1Ro8yHsRhKCGJ2A96cLJKCZzVXnwu5bhK,"['Appeal to fear/prejudice', 'Causal Oversimplification', 'Exaggeration/Minimisation']","['Appeal to fear/prejudice', 'Causal Oversimplification', 'Exaggeration/Minimisation', 'Flag-waving']"
+csv_1SKjQSE5W5hwfdKP2jmnp5_bOABLbDhti,"['Appeal to fear/prejudice', 'Glittering generalities (Virtue)', 'Smears']","['Appeal to fear/prejudice', 'Smears']"
+csv_1T7NIuVIHZ5gDHPSGuKBPyEFtWmkuajWv,['Flag-waving'],['Flag-waving']
+csv_1TNiTmru80wiijeumkbH88TwkatJE9iTO,"['Causal Oversimplification', 'Smears']",['Smears']
+csv_1TSEs2hikRGquY_AMVGppnOtwWoEtokTo,"['Black-and-white Fallacy/Dictatorship', 'Exaggeration/Minimisation']","['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Name calling/Labeling', 'Smears']"
+csv_1UTsSKtviwlAP0yIT6U5hbn1oTUgZsV46,['Exaggeration/Minimisation'],['Exaggeration/Minimisation']
+csv_1XBuNPKrtwzfktJJ7CKICo2AOcA7zowmr,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation']","['Exaggeration/Minimisation', 'Flag-waving']"
+csv_1YDUwDv-RyzmWv_Oq6v9qOJgBR2_SwFxj,"['Name calling/Labeling', 'Smears']","['Name calling/Labeling', 'Smears']"
+csv_1YosMGReMhHOopEF0QYNvsLvbMdfolLTt,"['Appeal to fear/prejudice', 'Transfer']",['Appeal to fear/prejudice']
+csv_1Z7YxQ36i1QBhEuQxmBUZ3HxnGFxPYExt,"['Causal Oversimplification', 'Exaggeration/Minimisation', 'Slogans']","['Flag-waving', 'Glittering generalities (Virtue)']"
+csv_1ZABEopY4DTFtorKIJHfb8X2tHImu9WdK,"['Exaggeration/Minimisation', 'Smears']",['Smears']
+csv_1ZKQcOIwyPXIALb2riK8uMuqAkn7rvKgu,"['Black-and-white Fallacy/Dictatorship', 'Presenting Irrelevant Data (Red Herring)']",['No Propaganda']
+csv_1ZUuniQI-iaZ1mfd3wdvdsOP9Zr3mR5KB,['Name calling/Labeling'],"['Appeal to (Strong) Emotions', 'Flag-waving', 'Smears']"
+csv_1_0CmY6hnHGdORcJaKmRigKUEYdkqe34X,"['Black-and-white Fallacy/Dictatorship', 'Flag-waving']","['Black-and-white Fallacy/Dictatorship', 'Flag-waving', 'Smears']"
+csv_1_lV1UhJjYzDZ4y4zVde_I4Z9l34fhe3b,"['Smears', 'Transfer']","['Name calling/Labeling', 'Smears', 'Transfer']"
+csv_1aVzq0hNJM79ubHW9pVj1dRko9h418U4G,['Presenting Irrelevant Data (Red Herring)'],['Presenting Irrelevant Data (Red Herring)']
+csv_1bydWAdq0PijW8t3sPZEiQADZaaKDyVDk,"['Obfuscation, Intentional vagueness, Confusion', 'Smears']","['Obfuscation, Intentional vagueness, Confusion', 'Smears']"
+csv_1cmjkZ8nBDuRrOEk4CzrF69nLdbIOw_yK,"['Appeal to (Strong) Emotions', 'Causal Oversimplification', 'Loaded Language', 'Thought-terminating cliché']","['Appeal to (Strong) Emotions', 'Causal Oversimplification', 'Exaggeration/Minimisation', 'Loaded Language']"
+csv_1dCdvDnBfu5F0Fb8Ph4r-TnUDiH_pwBUU,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Slogans']","['Appeal to (Strong) Emotions', 'Flag-waving', 'Obfuscation, Intentional vagueness, Confusion', 'Smears']"
+csv_1e5Xg2iMyrkPIzXIQ2fAwJtpLGGEzXfUg,['No Propaganda'],['No Propaganda']
+csv_1fBuUvrNVjrskjP7Dq8pXLptssX-FcROp,['Appeal to fear/prejudice'],['Appeal to fear/prejudice']
+csv_1gN6EzJKrA2ggHmp35boJp-1GFvqNsFzS,"['Appeal to (Strong) Emotions', 'Glittering generalities (Virtue)']","['Flag-waving', 'Loaded Language']"
+csv_1gQKDFVCmsA5DKq5gxO_QQ3xCwTdMZoIu,['Smears'],"['Name calling/Labeling', 'Smears']"
+csv_1gbSn5MqWtjgVlG6bqVB-ul9FSRMRdu6r,"['Appeal to fear/prejudice', 'Obfuscation, Intentional vagueness, Confusion']","['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice']"
+csv_1h8DQF6VfAKCrSzMXoisCLwCjSZ85V290,"['Black-and-white Fallacy/Dictatorship', 'Glittering generalities (Virtue)']","['Exaggeration/Minimisation', 'Flag-waving', 'Glittering generalities (Virtue)']"
+csv_1hH1wRVhdXOc_ZtpxdtsQa0ekVqbEnYaU,"['Appeal to (Strong) Emotions', 'Causal Oversimplification', 'Transfer']","['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation']"
+csv_1iwnE7hXJTYA9HWGsN3GXZrtLSXgHcBkH,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Flag-waving']","['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Flag-waving', 'Smears']"
+csv_1jWv14cplK9_nuP43CjZvKKiTpS4XtY4Q,"['Bandwagon', 'Black-and-white Fallacy/Dictatorship', 'Flag-waving']",['No Propaganda']
+csv_1l8l3iqfdMTzYPRmIdVwhoVpbz4DoH-jk,"['Appeal to (Strong) Emotions', 'Name calling/Labeling']","['Exaggeration/Minimisation', 'Flag-waving', 'Name calling/Labeling', 'Smears', 'Transfer']"
+csv_1lEnZjL4F2uvx1q2eHg9Zx6415aylzrGN,"['Appeal to fear/prejudice', 'Smears', 'Transfer']","['Exaggeration/Minimisation', 'Smears']"
+csv_1lMoiQisGNoT4zH7qDk351OPWuEu9jsKb,"['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Glittering generalities (Virtue)']","['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Exaggeration/Minimisation']"
+csv_1m2InmrfXrSWegSA2fkfya4lv_0_0kqVL,"['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Transfer']","['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Smears', 'Transfer']"
+csv_1mAzaBxOug35Ybwu-e5AaVWl0bu6u836q,['No Propaganda'],"['Exaggeration/Minimisation', 'Smears', 'Transfer']"
+csv_1nw0q3VLIRoINHc1k3i1J8tdYmTcsECKg,"['Name calling/Labeling', 'Presenting Irrelevant Data (Red Herring)', 'Smears']","['Causal Oversimplification', 'Doubt', 'Exaggeration/Minimisation', 'Name calling/Labeling', 'Smears']"
+csv_1p5-ZznsDoQnpdbkJFqDiXnU41GhyKC6G,['No Propaganda'],['No Propaganda']
+csv_1pv3n7Wg8DWUoTTmnvwZOBjTEtTvwO4FM,['Flag-waving'],"['Appeal to (Strong) Emotions', 'Flag-waving', 'Smears']"
+csv_1rp122LyXOoM61fSI4sYB-OR9hFpvsN_2,['No Propaganda'],['No Propaganda']
+csv_1sHoLVF1KKIYriOGytkeJ15PRAROnXDPQ,"['Presenting Irrelevant Data (Red Herring)', 'Smears']","['Presenting Irrelevant Data (Red Herring)', 'Smears']"
+csv_1t46Km_iQzoXF3ExZYzThS_gfcQnLcEIa,['Smears'],['No Propaganda']
+csv_1t8UozuVBdMGrHW_k7ZBUKTzd04heUDsV,"['Appeal to (Strong) Emotions', 'Causal Oversimplification', 'Glittering generalities (Virtue)']","['Appeal to (Strong) Emotions', 'Flag-waving', 'Glittering generalities (Virtue)']"
+csv_1tpj60Hx5lTknRqTiasPiCm5ZgGBYE6Yd,"['Flag-waving', 'Repetition', 'Transfer']","['Appeal to (Strong) Emotions', 'Flag-waving', 'Transfer']"
+csv_1tte6fSjUphzA_9NDxEFsNi7MlkJm0tNf,"['Appeal to (Strong) Emotions', 'Causal Oversimplification', 'Flag-waving']","['Exaggeration/Minimisation', 'Flag-waving']"
+csv_1txSFB1BLNUO5tJQis7WrXKO-0SWClXdb,['Smears'],"['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Smears']"
+csv_1vqyOohoLmOCGyhkgEu3r4gr4qEkUM-u3,"['Flag-waving', 'Glittering generalities (Virtue)']","['Exaggeration/Minimisation', 'Flag-waving', 'Glittering generalities (Virtue)']"
+csv_1wIvl6vJlV5Es-RxQkERhPKTx5uVPHTaf,['No Propaganda'],['No Propaganda']
+csv_1wL2eNDB7RDCIf_NleosHiALOGa94WQ6M,"['Reductio ad hitlerum', 'Smears']",['Whataboutism']
+csv_1wda6qKluOFeWnSbzOcJBj_MXoElWlzpP,['Glittering generalities (Virtue)'],['No Propaganda']
+csv_1wyujNtKsKH0zwoc27oaTO9fXPVtXvTGp,['Appeal to fear/prejudice'],"['Appeal to (Strong) Emotions', 'Flag-waving', 'Loaded Language']"
+csv_1x_ElMKk0N8xJIk4KfUmtD91dJ9Oef4K4,['Flag-waving'],"['Flag-waving', 'Smears']"
+csv_1xmh2owZ9kqlxqkohmeUNKXNRj4uUoAHF,"['Smears', 'Transfer']","['Appeal to (Strong) Emotions', 'Flag-waving', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Transfer']"
+csv_1xpnOrZDcIONq0PFKuPJ0iyQ1V9YvP-y4,['No Propaganda'],['Smears']
+csv_1yNAKOfqD7K-rC-y5zsEtYyuB3xMvXbdX,"['Exaggeration/Minimisation', 'Flag-waving']","['Appeal to fear/prejudice', 'Exaggeration/Minimisation', 'Flag-waving']"
+csv_1yvnxS-lSab4w10nCrblldr9XAlG3X5Pm,['No Propaganda'],['No Propaganda']
+tg_5265,['Flag-waving'],['No Propaganda']
+tg_5266,['No Propaganda'],['No Propaganda']
+tg_5267,['No Propaganda'],['No Propaganda']
+tg_5268,['No Propaganda'],['No Propaganda']
+tg_5269,['No Propaganda'],['No Propaganda']
+tg_5270,['No Propaganda'],['No Propaganda']
+tg_5271,['No Propaganda'],['No Propaganda']
+tg_5272,['No Propaganda'],['No Propaganda']
+tg_5273,['No Propaganda'],['No Propaganda']
+tg_5274,['No Propaganda'],['No Propaganda']
+tg_5275,['No Propaganda'],['No Propaganda']
+tg_5277,['No Propaganda'],['No Propaganda']
+tg_5278,['No Propaganda'],['No Propaganda']
+tg_5279,"['Causal Oversimplification', 'Exaggeration/Minimisation', 'Presenting Irrelevant Data (Red Herring)']","['Causal Oversimplification', 'Exaggeration/Minimisation']"
+tg_5280,['No Propaganda'],['No Propaganda']
+tg_5281,['No Propaganda'],['No Propaganda']
+tg_5282,['No Propaganda'],['No Propaganda']
+tg_5283,['No Propaganda'],['No Propaganda']
+tg_5285,"['Causal Oversimplification', ""Misrepresentation of Someone's Position (Straw Man)"", 'Reductio ad hitlerum', 'Smears']","['Causal Oversimplification', ""Misrepresentation of Someone's Position (Straw Man)"", 'Reductio ad hitlerum', 'Smears']"
+tg_5286,['No Propaganda'],['No Propaganda']
+tg_5287,['Smears'],"['Appeal to (Strong) Emotions', 'Smears']"
+tg_5288,"['Flag-waving', 'Glittering generalities (Virtue)', 'Transfer']","['Flag-waving', 'Glittering generalities (Virtue)', 'Transfer']"
+tg_5289,['No Propaganda'],['No Propaganda']
+tg_5290,['No Propaganda'],['No Propaganda']
+tg_5291,['Flag-waving'],"['Appeal to (Strong) Emotions', 'Flag-waving']"
+tg_5292,['No Propaganda'],['No Propaganda']
+tg_5293,['No Propaganda'],['No Propaganda']
+tg_5294,['No Propaganda'],['No Propaganda']
+tg_5295,['Flag-waving'],['No Propaganda']
+tg_5298,['No Propaganda'],['No Propaganda']
+tg_5299,['No Propaganda'],['No Propaganda']
+tg_5301,['No Propaganda'],['No Propaganda']
+tg_5302,"['Bandwagon', 'Causal Oversimplification', 'Presenting Irrelevant Data (Red Herring)']",['No Propaganda']
+tg_5303,['No Propaganda'],['No Propaganda']
+tg_5304,['No Propaganda'],['No Propaganda']
+tg_5306,['No Propaganda'],['No Propaganda']
+tg_5307,['No Propaganda'],['No Propaganda']
+tg_5308,['No Propaganda'],['No Propaganda']
+tg_5309,['No Propaganda'],['No Propaganda']
+tg_5310,['No Propaganda'],['No Propaganda']
+tg_5312,['No Propaganda'],['No Propaganda']
+tg_5313,['No Propaganda'],['No Propaganda']
+tg_5314,['No Propaganda'],['No Propaganda']
+tg_5316,"['Appeal to fear/prejudice', 'Causal Oversimplification', 'Exaggeration/Minimisation', 'Presenting Irrelevant Data (Red Herring)']","['Loaded Language', 'Smears']"
+tg_5317,['No Propaganda'],['No Propaganda']
+tg_5318,"['Presenting Irrelevant Data (Red Herring)', 'Reductio ad hitlerum']",['No Propaganda']
+tg_5319,['No Propaganda'],['No Propaganda']
+tg_5320,['No Propaganda'],['No Propaganda']
+tg_5321,"['Appeal to fear/prejudice', 'Loaded Language']","['Appeal to (Strong) Emotions', 'Flag-waving', 'Smears']"
+tg_5323,['No Propaganda'],['No Propaganda']
+tg_5324,['No Propaganda'],['No Propaganda']
+tg_5325,['Appeal to (Strong) Emotions'],"['Appeal to (Strong) Emotions', 'Flag-waving']"
+tg_5326,['No Propaganda'],['No Propaganda']
+tg_5327,['No Propaganda'],['No Propaganda']
+tg_5328,['No Propaganda'],['No Propaganda']
+tg_5329,['No Propaganda'],['No Propaganda']
+tg_5330,['No Propaganda'],['No Propaganda']
+tg_5331,['No Propaganda'],['No Propaganda']
+tg_5332,['No Propaganda'],['No Propaganda']
+tg_5333,['No Propaganda'],['No Propaganda']
+tg_5334,['No Propaganda'],['No Propaganda']
+tg_5335,"['Appeal to fear/prejudice', ""Misrepresentation of Someone's Position (Straw Man)"", 'Smears']","['Appeal to fear/prejudice', 'Obfuscation, Intentional vagueness, Confusion', 'Smears']"
+tg_5336,['No Propaganda'],['No Propaganda']
+tg_5337,['No Propaganda'],['No Propaganda']
+tg_5338,['No Propaganda'],['No Propaganda']
+tg_5339,['No Propaganda'],['No Propaganda']
+tg_5340,['No Propaganda'],['No Propaganda']
+tg_5341,['No Propaganda'],['No Propaganda']
+tg_5342,['No Propaganda'],['No Propaganda']
+tg_5343,"['Reductio ad hitlerum', 'Smears']","['Name calling/Labeling', 'Reductio ad hitlerum', 'Smears']"
+tg_5344,['No Propaganda'],"['Causal Oversimplification', 'Transfer']"
+tg_5345,['No Propaganda'],"['Appeal to (Strong) Emotions', 'Loaded Language']"
+tg_5346,"['Appeal to fear/prejudice', 'Causal Oversimplification', 'Exaggeration/Minimisation']","['Appeal to fear/prejudice', 'Causal Oversimplification', 'Exaggeration/Minimisation']"
+tg_5347,"['Exaggeration/Minimisation', 'Flag-waving']","['Exaggeration/Minimisation', 'Flag-waving', 'Loaded Language']"
+tg_5349,['No Propaganda'],['No Propaganda']
+tg_5350,"['Appeal to (Strong) Emotions', 'Black-and-white Fallacy/Dictatorship', 'Exaggeration/Minimisation']","['Appeal to (Strong) Emotions', 'Causal Oversimplification', 'Exaggeration/Minimisation']"
+tg_5351,['No Propaganda'],['No Propaganda']
+tg_5352,['No Propaganda'],['No Propaganda']
+tg_5353,['No Propaganda'],['No Propaganda']
+tg_5354,['No Propaganda'],['No Propaganda']
+tg_5355,['No Propaganda'],['No Propaganda']
+tg_5357,['No Propaganda'],['No Propaganda']
+tg_5358,"['Exaggeration/Minimisation', 'Flag-waving']","['Exaggeration/Minimisation', 'Flag-waving', 'Glittering generalities (Virtue)']"
+tg_5359,['No Propaganda'],['No Propaganda']
+tg_5360,['No Propaganda'],['No Propaganda']
+tg_5361,['No Propaganda'],['No Propaganda']
+tg_5362,['No Propaganda'],"['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling']"
+tg_5364,['No Propaganda'],"['Causal Oversimplification', 'Exaggeration/Minimisation', 'Smears', 'Thought-terminating cliché']"
+tg_5365,"['Appeal to fear/prejudice', 'Bandwagon', 'Flag-waving']","['Bandwagon', 'Flag-waving']"
+tg_5366,"['Appeal to fear/prejudice', 'Black-and-white Fallacy/Dictatorship', 'Exaggeration/Minimisation']","['Exaggeration/Minimisation', 'Flag-waving', 'Smears']"
+tg_5369,['No Propaganda'],['No Propaganda']
+tg_5370,['No Propaganda'],['No Propaganda']
+tg_5371,['No Propaganda'],['Exaggeration/Minimisation']
+tg_5372,['No Propaganda'],['No Propaganda']
+tg_5373,['No Propaganda'],['Exaggeration/Minimisation']
+tg_5374,['No Propaganda'],['No Propaganda']
+tg_5375,['No Propaganda'],['Appeal to (Strong) Emotions']
+tg_5376,['No Propaganda'],['No Propaganda']
+tg_5379,['No Propaganda'],['No Propaganda']
+tg_5380,['No Propaganda'],['No Propaganda']
